@@ -15,7 +15,7 @@ class ListAdapter : RecyclerView.Adapter<ListAdapter.ListItemViewHolder>() {
     }
 
     override fun onBindViewHolder(holder: ListItemViewHolder, position: Int) {
-        TODO("Not yet implemented")
+        TODO("Not yet implemented")456
     }
 
     override fun getItemCount(): Int {
